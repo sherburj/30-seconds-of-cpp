@@ -1,6 +1,10 @@
 # front
 
-**Description** :The vector::front() is a built-in function in C++ STL which is used to return a reference to the first element in a vector container.
+**Difficulty** : Beginner
+
+**Time Considerations** : 15 minutes
+
+**Description** : Used to return a reference to the first element in a vector container.
 
 **Example**:
 ```cpp

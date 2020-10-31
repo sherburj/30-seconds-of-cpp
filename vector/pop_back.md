@@ -1,5 +1,9 @@
 # pop_back
 
+**Difficulty** : Beginner
+
+**Time Considerations** : 15 minutes
+
 **Description** : Remove elements of a vector from the end
 
 **Example** :

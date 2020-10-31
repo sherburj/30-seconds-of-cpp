@@ -1,5 +1,9 @@
 # Vector
 
+**Difficulty** : Intermediate
+
+**Time Considerations** : 30 minutes
+
 **Description :** Vectors are sequence containers representing arrays that can change in size, they are a generic templete and will use whatever generic type you assign to it. Vectors are similar to arrays in that 
 they hold data in cells, these cells are dynamically allocated and deallocated automatically. Below are 4 constructor examples of how to create vector objects.
 

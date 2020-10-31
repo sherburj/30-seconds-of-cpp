@@ -1,6 +1,10 @@
 # push_back
 
-**Description** : Add new elements to the vector
+**Difficulty** : Beginner 
+
+**Time Considerations** : 15 minutes
+
+**Description** : Add new elements to the end of a vector
 
 **Example**:
 ```cpp

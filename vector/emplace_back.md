@@ -1,5 +1,9 @@
 # emplace_back
 
+**Difficulty** : Intermediate
+
+**Time Considerations** : 20 minutes
+
 **Description**: Constructs and places an element at the end of the vector
 
 **Example**:

@@ -1,5 +1,9 @@
 # swap
 
+**Difficulty** : Beginner
+
+**Time Considerations** : 10 minutes
+
 **Description** : Swaps the contents of two vectors
 
 **Example**:

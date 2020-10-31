@@ -1,5 +1,9 @@
 # emplace
 
+**Difficulty** : Intermediate
+
+**Time Considerations** : 20 minutes
+
 **Description**: Places an element in the vector at the specified position
 
 **Example**:

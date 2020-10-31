@@ -1,6 +1,10 @@
 # insert
 
-**Description** : insert() is a function in C++ STL which inserts new elements before the element at the specified position, effectively increasing the container size by the number of elements inserted.
+**Difficulty** : Beginner
+
+**Time Considerations** : 15 minutes
+
+**Description** : Inserts new elements before the element at the specified position, effectively increasing the container size by the number of elements inserted.
 
 **Example**:
 ```cpp

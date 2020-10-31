@@ -1,6 +1,10 @@
 # size
 
-**Description** : The list::vector() is a built-in function in C++ STL which is used to find the number of elements present in a vector container.
+**Difficulty** : Beginner
+
+**Time Considerations** : 5 minutes
+
+**Description** : Used to find the number of elements present in a vector container.
 
 **Example**:
 ```cpp

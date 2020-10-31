@@ -1,5 +1,9 @@
 # reserve
 
+**Difficulty** : Beginner
+
+**Time Considerations** : 10 minutes
+
 **Description** :
 - Helps specify the minimum size of a vector
 - Useful to know how many elements the vector will ultimately hold
@@ -21,4 +25,3 @@
 
 **[See sample code](..snippets/vector/reserve.cpp)**
 **[Run Code](https://rextester.com/AMLWGW9232)**
-

@@ -1,6 +1,16 @@
 # sort
 
+**Difficulty** : Intermediate
+
+**Time Considerations** : 25 minutes
+
 **Description** : Puts the vector in increasing or decreasing order
+
+Variations
+
+1. With two arguments, function will put emements in increasing order
+2. With three arguments, function will put elements in order based on the third argument. 
+
 **Example**:
 ```cpp
     //Declare the vector  

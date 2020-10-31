@@ -1,5 +1,9 @@
 # assign
 
+**Difficulty** : Intermediate
+
+**Time Considerations** : 15 minutes
+
 **Description** : Overwrites the contents of a vector.
 
 Two variations:

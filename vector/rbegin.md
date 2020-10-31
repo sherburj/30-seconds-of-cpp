@@ -1,5 +1,9 @@
 # rbegin
 
+**Difficulty** : Advanced
+
+**Time Considerations** : 25 minutes
+
 **Description** : 
 - Returns a reverse iterator pointing to the last element in the vector (i.e., its reverse beginning).
 - Reverse iterators iterate backwards: increasing them moves them towards the beginning of the container.

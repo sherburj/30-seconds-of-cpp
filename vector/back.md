@@ -1,8 +1,10 @@
 # back
 
-**Description :** 
+**Difficulty** : beginner
 
-Returns a reference to the last element in the vector
+**Time Considerations** : 15 minutes
+
+**Description** : Returns a reference to the last element in the vector.
 
 **Example** :
 

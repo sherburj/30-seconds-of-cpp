@@ -1,9 +1,12 @@
 # capacity
 
-**Description** :
-- Returns the storage space currently allocated to vector
+**Difficulty** : Beginner
 
--The size returned is greater than or equal to vector size, the extra space is to accommodate expansion without the need to relocate vector each time
+**Time Considerations** : 15 minutes
+
+**Description** : Returns the storage space currently allocated to vector. 
+
+Vectors are dynamically allocated space, their maximum capacity changes to accommodate expansion without the need to relocate vector each time. This does not list the number of elements.
 
 **Example**
 ```cpp

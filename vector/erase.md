@@ -1,5 +1,9 @@
 # erase
 
+**Difficulty** : Intermediate
+
+**Time Considerations** : 20 minutes
+
 **Description** : Erases the specified elements from the vector.
 
 Two variations:

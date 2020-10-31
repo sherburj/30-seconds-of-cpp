@@ -1,5 +1,9 @@
 # data
 
+**Difficulty** : Intermediate
+
+**Time Considerations** : 20 minutes
+
 **Description** : The function returns a pointer to the first element in the array which is used internally by the vector. It doesn't accept any parameters.
 
 

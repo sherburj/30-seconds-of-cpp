@@ -1,5 +1,9 @@
 # shrink_to_fit
 
+**Difficulty** : Beginner
+
+**Time Considerations** : 10 minutes
+
 **Description** : Reduces the capacity of the container to fit its size.
 
 **Example**:

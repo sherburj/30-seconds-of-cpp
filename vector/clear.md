@@ -1,5 +1,9 @@
 # clear
 
+**Difficulty** : Beginner
+
+**Time Considerations** : 10 minutes
+
 **Description**: Remove all current elements of the vector, reducing its size to 0.
 
 **Example**:

@@ -1,5 +1,9 @@
 # get_allocator
 
+**Difficulty** : Advanced
+
+**Time Considerations** : 25 minutes
+
 **Description**: Returns a copy of the allocator object associated with the vector.
 
 **Example**:

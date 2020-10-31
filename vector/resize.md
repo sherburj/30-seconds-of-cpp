@@ -1,10 +1,15 @@
 # resize
 
-**Description :** 
+**Difficulty** : Beginner
 
-Resizes vector to contain n elements.
+**Time Considerations** : 15 minutes
 
-If the vector is resized to larger size than it was originally then additional elements will be initialized to value specified by the second parameter ( optional ) or defaulted to 0 if the parameter is not provided.
+**Description :** : Resizes vector to contain n elements. Can be used to add and remove elements.
+
+Two variations:
+
+1. If the vector is resized without a second argument, then newly created elements will default to a value of 0.
+2. If the vector is resized with a second argument, then the newly created elements will contain that argument. 
 
 **Example** :
 

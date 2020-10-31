@@ -1,7 +1,10 @@
 # begin
 
-**Description** : 
-- Returns an iterator pointing to the first element in the vector.
+**Difficulty** : Beginner
+
+**Time Considerations** : 10 minutes
+
+**Description** : Returns an iterator pointing to the first element in the vector.
 				
 **Example**:
 ```cpp

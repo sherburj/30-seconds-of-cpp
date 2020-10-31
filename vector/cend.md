@@ -1,5 +1,9 @@
 # cend
 
+**Difficulty** : Beginner
+
+**Time Considerations** : 15 minutes
+
 **Description** : The function returns an iterator which is used to iterate container.
 
 Notes:

@@ -1,5 +1,9 @@
 # rend
 
+**Difficulty** : Advanced
+
+**Time Considerations** : 25 minutes
+
 **Description** : 
 - Returns a reverse iterator pointing to the theoretical element preceding the first element in the vector (which is considered its reverse end).
 - Reverse iterators iterate backwards: increasing them moves them towards the beginning of the container.
