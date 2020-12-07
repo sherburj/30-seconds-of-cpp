@@ -6,6 +6,8 @@
 
 **Description** : Used to return a reference to the first element in a vector container.
 
+**Syntax :** vectorname.front()
+
 **Example**:
 ```cpp
     // Creating a vector 
@@ -24,4 +26,5 @@
     std::cout << ele; 
  
 ```
+**[See Sample code](../snippets/vector/front.cpp)**
 **[Run Code](https://rextester.com/WASUB54049)**

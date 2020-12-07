@@ -8,6 +8,8 @@
 - Helps specify the minimum size of a vector
 - Useful to know how many elements the vector will ultimately hold
 
+**Syntax :** vectorname.reserve()
+
 **Example**:
 ```cpp
 	//create an empty vector
@@ -23,5 +25,5 @@
         }
 ```
 
-**[See sample code](..snippets/vector/reserve.cpp)**
+**[See sample code](../snippets/vector/reserve.cpp)**
 **[Run Code](https://rextester.com/AMLWGW9232)**

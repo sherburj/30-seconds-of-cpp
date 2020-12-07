@@ -6,6 +6,8 @@
 
 **Description** : Reduces the capacity of the container to fit its size.
 
+**Syntax :** vectorname.shrink_to_fit()
+
 **Example**:
 ```cpp
     //create a vector of 5 elements

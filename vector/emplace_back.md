@@ -6,6 +6,8 @@
 
 **Description**: Constructs and places an element at the end of the vector
 
+**Syntax :** vectorname.emplace_back()
+
 **Example**:
 ```cpp
     //creating a vector of 3 elements

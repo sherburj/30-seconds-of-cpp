@@ -8,8 +8,10 @@
 
 Notes:
 
-1. The iterator points to the beginning of the vector.
-2. Iterator cannot modify the contents of the vector.
+- The iterator points to the beginning of the vector.
+- Iterator cannot modify the contents of the vector.
+
+**Syntax :** vectorname.cbegin()
 
 **Example**:
 ```cpp
@@ -35,5 +37,6 @@ int main(){
 }
 
 ```
+**[See Sample code](../snippets/vector/cbegin.cpp)**
 **[Run Code](https://rextester.com/XRFTW94461)**
 

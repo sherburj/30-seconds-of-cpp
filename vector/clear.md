@@ -6,6 +6,8 @@
 
 **Description**: Remove all current elements of the vector, reducing its size to 0.
 
+**Syntax :** vectorname.clear()
+
 **Example**:
 ```cpp
     std::vector<int> myVector;
@@ -34,4 +36,5 @@
     // Size of vector is 0
     std::cout << "Vector size: " << myVector.size() << std::endl;
 ```
+**[See Sample code](../snippets/vector/clear.cpp)**
 **[Run Code](https://rextester.com/IPP45757)**

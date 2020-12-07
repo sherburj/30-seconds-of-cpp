@@ -1,4 +1,4 @@
-# assign
+#assign
 
 **Difficulty** : Intermediate
 
@@ -10,6 +10,8 @@ Two variations:
 
 1. Assigns the vector's contents to `n` copies of a value.
 2. Assigns the vector to a copy of the elements in a given iterator range.
+
+**Syntax :** vectorname.assign()
 
 **Example**:
 ```cpp

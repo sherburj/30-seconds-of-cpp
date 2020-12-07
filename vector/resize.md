@@ -11,6 +11,8 @@ Two variations:
 1. If the vector is resized without a second argument, then newly created elements will default to a value of 0.
 2. If the vector is resized with a second argument, then the newly created elements will contain that argument. 
 
+**Syntax :** vectorname.resize()
+
 **Example** :
 
 ```cpp
@@ -37,4 +39,5 @@ Two variations:
         std::cout << it << " ";
     }
 ```
+**[See sample code](../snippets/vector/resize.cpp)**
 **[Run Code](https://rextester.com/PTX81543)**

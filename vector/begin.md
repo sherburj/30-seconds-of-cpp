@@ -5,7 +5,9 @@
 **Time Considerations** : 10 minutes
 
 **Description** : Returns an iterator pointing to the first element in the vector.
-				
+			
+**Syntax :** vectorname.begin()
+			
 **Example**:
 ```cpp
 	// Iterate over myVector using iterators

@@ -6,6 +6,8 @@
 
 **Description** : Returns the maximum number of elements that a vector can hold. Depends on the limitations of the system on which program is running.
 
+**Syntax :** vectorname.max_size()
+
 **Example**:
 ```cpp
 	//Create two vectors, one empty and one having 6 elements

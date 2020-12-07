@@ -8,6 +8,8 @@
 
 Vectors are dynamically allocated space, their maximum capacity changes to accommodate expansion without the need to relocate vector each time. This does not list the number of elements.
 
+**Syntax :** vectorname.capacity()
+
 **Example**
 ```cpp
    //Declare the vector

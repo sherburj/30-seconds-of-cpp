@@ -4,7 +4,9 @@
 
 **Time Considerations** : 10 minutes
 
-**Description** : Used to check whether a particular vector container is empty or not. 
+**Description** : Used to check whether a particular vector container is empty or not. Returns True or Flase
+
+**Syntax :** vectorname.empty()
 
 **Example** :
 ```cpp
@@ -30,4 +32,5 @@
         std::cout << "Not Empty\n"; 
          
 ```
+**[See Sample Code](../snippets/vector/empty.cpp)**
 **[Run Code](https://rextester.com/ZMFKZ74225)**

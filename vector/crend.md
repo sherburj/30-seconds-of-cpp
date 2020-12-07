@@ -6,6 +6,8 @@
 
 **Description** : The function returns an reverse_iterator pointing to the last element in the container (i.e., its reverse beginning). The iterator points to past-the-end element of the vector.
 
+**Syntax :** vectorname.crend()
+
 **Example**:
 ```cpp
 // Demonstrates cbegin() 
@@ -24,5 +26,6 @@ int main ()
   return 0;
 }
 ```
-**[Run Code](https://rextester.com/HOY41620)**
+**[See Sample code](../snippets/vector/crend.cpp)**
+**[Run Code](https://rextester.com/SIJQ41410)**
 

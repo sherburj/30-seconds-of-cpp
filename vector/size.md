@@ -6,6 +6,8 @@
 
 **Description** : Used to find the number of elements present in a vector container.
 
+**Syntax :** vectorname.size()
+
 **Example**:
 ```cpp
     // Creating a vector
@@ -22,4 +24,5 @@
   
     std::cout << "The vector contains " << size << " elements"; 
 ```
+**[See Sample Code](../snippets/vector/size.cpp)**
 **[Run Code]( https://rextester.com/FLGXD19090)**

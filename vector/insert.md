@@ -6,6 +6,8 @@
 
 **Description** : Inserts new elements before the element at the specified position, effectively increasing the container size by the number of elements inserted.
 
+**Syntax :** vectorname.insert()
+
 **Example**:
 ```cpp
     // initialising the vector 

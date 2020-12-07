@@ -6,6 +6,8 @@
 
 **Description**: Returns a copy of the allocator object associated with the vector.
 
+**Syntax :** vectorname.get_allocator()
+
 **Example**:
 
 ```cpp

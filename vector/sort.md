@@ -11,6 +11,8 @@ Variations
 1. With two arguments, function will put emements in increasing order
 2. With three arguments, function will put elements in order based on the third argument. 
 
+**Syntax :** vectorname.sort()
+
 **Example**:
 ```cpp
     //Declare the vector  

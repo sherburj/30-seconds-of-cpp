@@ -6,6 +6,8 @@
 
 **Description** : The function returns an const_reverse_iterator pointing to the last element in the container (i.e., its reverse beginning). The iterator points to past-the-end element of the vector.
 
+**Syntax :** vectorname.crbegin()
+
 **Example**:
 ```cpp
 // Demonstrates cbegin() 
@@ -24,5 +26,6 @@ int main ()
   return 0;
 }
 ```
+**[See Sample code](../snippets/vector/crbegin.cpp)**
 **[Run Code](https://rextester.com/HOY41620)**
 

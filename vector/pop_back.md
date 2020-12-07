@@ -6,6 +6,8 @@
 
 **Description** : Remove elements of a vector from the end
 
+**Syntax :** vectorname.pop_back()
+
 **Example** :
 ```cpp
     //Declare the vector

@@ -6,6 +6,8 @@
 
 **Description**: Places an element in the vector at the specified position
 
+**Syntax :** vectorname.emplace()
+
 **Example**:
 ```cpp
     //creating a vector of 5 elements

@@ -9,6 +9,8 @@
 
 - If the position is not present in the vector, it throws exception of type _out_of_range_ 
 			
+**Syntax :** vectorname.at()
+
 **Example**:
 ```cpp
 	// Create a vector of 5 integers  

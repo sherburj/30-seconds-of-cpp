@@ -8,14 +8,14 @@
 
 Notes:
 
-1. The iterator points to past-the-end element of the vector.
-2. Iterator cannot modify the contents of the vector.
+- The iterator points to past-the-end element of the vector.
+- Iterator cannot modify the contents of the vector.
 
 **Syntax :** vectorname.cend()
 
 **Example**:
 ```cpp
-// Demonstrates cbegin() 
+// Demonstrates cend() 
 #include <iostream>
 #include <vector>
 
@@ -38,5 +38,6 @@ int main(){
 }
 
 ```
+**[See Sample code](../snippets/vector/cend.cpp)**
 **[Run Code](https://rextester.com/QQMCH84623)**
 

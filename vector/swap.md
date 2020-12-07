@@ -6,6 +6,8 @@
 
 **Description** : Swaps the contents of two vectors
 
+**Syntax :** vectorname.swap(vectorname2)
+
 **Example**:
 ```cpp
     //Intializing the vectors  

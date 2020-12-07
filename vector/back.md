@@ -6,6 +6,8 @@
 
 **Description** : Returns a reference to the last element in the vector.
 
+**Syntax :** vectorname.back()
+
 **Example** :
 
 ```cpp
@@ -25,4 +27,5 @@
     std::cout << myVector.back() << " ";
     
 ```
+**[See Sample code](../snippets/vector/back.cpp)**
 **[Run Code](https://rextester.com/RQEY20725)**

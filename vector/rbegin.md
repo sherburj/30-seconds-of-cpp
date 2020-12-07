@@ -8,6 +8,8 @@
 - Returns a reverse iterator pointing to the last element in the vector (i.e., its reverse beginning).
 - Reverse iterators iterate backwards: increasing them moves them towards the beginning of the container.
 
+**Syntax :** vectorname.rbegin()
+
 **Example**:
 ```cpp
 	// Iterate backwards over myVector using reverse iterators

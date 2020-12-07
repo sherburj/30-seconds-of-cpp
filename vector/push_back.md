@@ -6,6 +6,8 @@
 
 **Description** : Add new elements to the end of a vector
 
+**Syntax :** vectorname.push_back()
+
 **Example**:
 ```cpp
     //Declare the vector  

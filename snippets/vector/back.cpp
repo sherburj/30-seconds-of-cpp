@@ -5,17 +5,26 @@
     Description : Used to fetch the last element of a vector
 */
 
-#include <iostream>
-#include <vector>
+#include <iostream> 
+#include <vector> 
+using namespace std; 
+  
+int main() { 
+    // Initialize int vector
+    std::vector<int> myVector = {1, 2, 3, 4, 5}; 
+    
+    // Save reference to the last element
+    int& lastEle = myVector.back();
+  
+    // Last Element is 5
+    std::cout << myVector.back() << " ";
+    
+    // Change the last element by changing the reference variable lastEle
+    lastEle = 10;
+  
+    // Last Element changed to 10
+    std::cout << myVector.back() << " ";
 
-int main() {
-	// A vector storing rainfall(in inches) of a week
-	std::vector<float> vRainfall{1.1, 2.02, 3.5, 4.9, 5.0, 3.7, 0.9};
 
-	// displaying the last value of a vector by back()
-    std::cout << "The Rainfall on day 7 -" << std::endl;
-	std::cout << vRainfall.back(); 
-	std::cout << std::endl;
-
-	return 0;
-}
+    return 0; 
+} 

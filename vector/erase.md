@@ -11,6 +11,8 @@ Two variations:
 1. Removes the element at position.
 2. Removes the elements in the range [first, last).
 
+**Syntax :** vectorname.erase()
+
 **Example**:
 ```cpp
     std::vector<int> vector1;
